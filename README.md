@@ -1,2 +1,2 @@
 
-Repositorio ejercicio P2P de GIT en Miriadax
+Primer fichero en el primer repositorio de Jesus Miguel Otero
